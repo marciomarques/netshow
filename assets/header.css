@@ -1,0 +1,92 @@
+.header{
+  background-color: #f0f0f0;
+  min-height: 85px;
+  border-bottom: 1px solid #eee;
+}
+
+.logo {
+  margin-top: 18px;
+}
+
+.search{
+  margin-top: 30px;
+}
+
+input.search-query {
+  border-radius: 5px;
+  width: 200px;
+}
+
+.user-account{
+  padding-left: 20px;
+  border-left: 1px solid #eee;
+}
+
+.user-account p{
+  margin-top: 10px;
+  font-size: 16px;
+  font-weight: 200;
+  color: #000;
+}
+
+.user-account a{
+  font-size: 12px;
+  font-weight: 200;
+  color: #00b2d7; 
+}
+
+.btn-facebook{
+  text-align: center;
+}
+
+a.btn-facebook{
+  padding-left: 20px;
+  color: #fff;
+  background: #3b5998 url('images/icon-facebook.png') no-repeat 10px center;
+  min-height: 25px;
+  width: 150px;
+  line-height: 35px;
+  display: block;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.menu-account{
+  width: 100%;
+  min-height: 20px;
+  padding: 5px 0 5px 0;
+  border-bottom: 1px solid #eee;
+  background: #fff;
+}
+
+#menu ul {
+	padding:0px;
+	margin:0px;
+	list-style:none;
+}
+
+#menu ul li { display: inline; }
+
+#menu ul li a {
+  font-size: 14px;
+	padding: 2px 10px;
+	display: inline-block;
+	color: #000;
+	text-decoration: none;
+}
+
+#menu ul li a:hover {
+	color: #03617d;
+}
+
+p.avatar{
+  line-height: 30px;
+}
+
+.img-circle.photo-profile{
+  margin: 10px 10px 0 0;
+}
+
+a.btn-bills{
+  color: #339a63;
+}

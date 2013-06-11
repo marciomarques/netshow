@@ -1,0 +1,88 @@
+.artist-avatar {
+  margin-bottom: 10px;
+}
+
+.artist-box{
+   min-height: 200px;
+   box-shadow: -5px 5px 5px #ccc;
+}
+
+.artist-box-tip{
+  background: #dcdcdc;
+  padding: 15px;
+  border-top: 1px solid #ccc;
+}
+
+.artist-about-us{
+  padding-left: 10px;
+  min-height: 240px;
+}
+
+.artist-sidebar{
+  border-left: 1px solid #ccc;
+  min-height: 400px;
+  padding-left: 20px;
+  background: #e7e9e4;
+}
+
+.btn-moeda-double{
+  min-height: 48px;
+  margin-left: 5px;
+  padding-left: 55px;
+  display: inline-block;
+  line-height: 48px;
+}
+
+a.btn-moeda-double{
+  color: #339a63;
+  background: url('images/moeda-double.png') no-repeat;
+}
+
+a:hover.btn-moeda-double{
+  background: url('images/moeda-double-hover.png') no-repeat;
+}
+
+.input-mini{
+  width: 35px;
+  text-align: center;
+}
+
+.artist-social{
+  display: block;
+  margin-top: 30px;
+}
+
+.social-tw, .social-fb, .social-you, .social-www{
+  display: inline-block;
+  text-indent: -99999px;
+  width: 38px;
+  min-height: 38px;
+}
+
+a.social-tw{
+  background: url('images/ico-social-tw.png') no-repeat;
+}
+
+a.social-fb{
+  background: url('images/ico-social-fb.png') no-repeat;
+}
+
+a.social-you{
+  background: url('images/ico-social-you.png') no-repeat;
+}
+
+a.social-www{
+  background: url('images/ico-social-www.png') no-repeat;
+}
+
+.artist-previous-avatar{
+ box-shadow: -5px 5px 5px #ccc;
+}
+
+.artist-previous-show h4{
+  border-bottom: 1px solid #ccc;
+}
+
+div.span6.artist-previous-show h5{
+  font-size: 16px;
+}

@@ -1,0 +1,112 @@
+.boxe-title{
+  float: left;
+  height: 30px;
+  padding: 5px 10px 10px 9px;
+  background: url("images/title-logo.png") 3px 5px no-repeat;
+}  
+
+/*.show-principal{
+  float: left;
+  height: 48px;
+  padding: 5px 10px 10px 9px;
+  background: url("images/title-show-principal.png") 3px 5px no-repeat;
+} */
+
+.boxes{
+  padding: 20px 0 50px 0;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #fff;
+}
+
+.space{
+  padding-left: 15px;
+}
+
+.boxes h2{
+  font-size: 35px;
+  font-weight: 100;
+  line-height: 25px;
+  padding-left: 40px;
+}
+
+div.span4.box{
+  width: 280px;
+}
+
+div.span2.box{
+  width: 190px;
+  margin-left: 35px;
+}
+
+.box{
+   min-height: 250px;
+   box-shadow: -5px 5px 5px #ccc;
+}
+
+.box h3{
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 18px;
+  padding: 20px 20px 0px 20px;
+}
+
+.box h4{
+  font-size: 14px;
+  font-weight: 200;
+  line-height: 20px;
+  padding: 0 20px 10px 20px;
+  color: #01b1d6;
+}
+
+.box-date{
+  background: #dcdcdc;
+  padding: 15px;
+  border-top: 1px solid #ccc;
+}
+
+.time {
+  font-weight: 900;
+  padding: 5px 10px;
+}
+
+p.date{
+  font-size: 25px;
+  display: inline;
+}
+
+p.time{
+  font-size: 14px;
+  display: inline;
+  background: #fff;
+  border-bottom: 1px solid #01b1d6;
+}
+
+.separates{
+ width: 97%;
+ display: block;  
+ margin: 20px; 
+ text-align: right;
+}
+
+hr{
+  display: inline;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 690px;
+  border: none;
+  border-bottom: 1px rgba(0,0,0,0.1) solid;
+  margin-right: 0;
+  padding-top: 2px;
+}
+
+a.mais{
+  color: #1f778f;
+  font-weight: 900;
+  margin-right: 30px;
+  padding-top: 10px;
+  display: block;
+}
